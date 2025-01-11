@@ -17,9 +17,9 @@ Explorar os desafios e limitações de diferenciar imagens geradas por IA de ima
 
 ## 🖼️ Dados
 
-- **Tamanho do conjunto**: 100 imagens.
-  - 50 imagens reais de mulheres com diversidade étnica e física.
-  - 50 imagens geradas por IA.
+- **Tamanho do conjunto**: 200 imagens.
+  - 100 imagens reais de mulheres com diversidade étnica e física.
+  - 100 imagens geradas por IA.
 - **Formato**: As imagens foram pré-processadas para serem compatíveis com o modelo.
 
 ## 🔍 Metodologia
